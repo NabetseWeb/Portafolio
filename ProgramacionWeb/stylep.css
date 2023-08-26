@@ -1,0 +1,52 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 15px;
+    color:aliceblue;
+    background-color:darkblue;
+    border-radius: 15px;
+
+}
+.parrafo{
+    color:aliceblue;
+    
+}
+.Ficha{
+        margin: 10px;
+        padding: 10px;
+        width: 250px;
+        height: 200px;
+        border-style: solid;
+        background-color: cornflowerblue;
+        border-radius: 25px;
+
+}
+.fotografia{
+
+    width: 150px;
+    height: 150px;
+    border-radius: 90px;
+}
+.columnas{
+    background-color: cornflowerblue;
+    border-radius: 15px;
+    border-style: dashed;
+    margin: 10px;
+    padding: 10px;
+}
+.fila{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+
+body {
+    background-image: url('D:\Sexto Semestre\Programacion Web\ProgramacionWeb.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top; /* Posición centrada en la parte superior */
+  }
+  
